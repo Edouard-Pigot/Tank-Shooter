@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 512e192fd91f2e8499da26da7c8f0b52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Auxiliary
+    100004: Bone
+    100006: Bone 1
+    100008: Bone 2
+    100010: Bone.001
+    100012: Bone.001 1
+    100014: Bone.001 2
+    100016: Bone.001_end
+    100018: Bone.001_end 1
+    100020: Bone.002
+    100022: Bone.002 1
+    100024: Bone.002 2
+    100026: Bone.002_end
+    100028: Bone.002_end 1
+    100030: Bone.003
+    100032: Bone.003 1
+    100034: Bone.003 2
+    100036: Bone.003_end
+    100038: Bone.003_end 1
+    100040: Bone.004
+    100042: Bone.005
+    100044: Bone.005_end
+    100046: Bone_end
+    100048: Bone_end 1
+    100050: BonesL
+    100052: BonesR
+    100054: BonesT
+    100056: Chassis
+    100058: Door
+    100060: Gun
+    100062: //RootNode
+    100064: StrBL1
+    100066: StrBL2
+    100068: StrBL3
+    100070: StrBL4
+    100072: StrBR1
+    100074: StrBR2
+    100076: StrBR3
+    100078: StrBR4
+    100080: StrMBL
+    100082: StrMBR
+    100084: StrMFL
+    100086: StrMFR
+    100088: StrTL1
+    100090: StrTL2
+    100092: StrTR1
+    100094: StrTR2
+    100096: SuspensionBL
+    100098: SuspensionBR
+    100100: SuspensionFL
+    100102: SuspensionFR
+    100104: TrackL
+    100106: TrackR
+    100108: Turret
+    100110: WheelBL1
+    100112: WheelBL2
+    100114: WheelBL3
+    100116: WheelBL4
+    100118: WheelBR1
+    100120: WheelBR2
+    100122: WheelBR3
+    100124: WheelBR4
+    100126: WheelMBL
+    100128: WheelMBR
+    100130: WheelMFL
+    100132: WheelMFR
+    100134: WheelTL1
+    100136: WheelTL2
+    100138: WheelTR1
+    100140: WheelTR2
+    400000: Antenna
+    400002: Auxiliary
+    400004: Bone
+    400006: Bone 1
+    400008: Bone 2
+    400010: Bone.001
+    400012: Bone.001 1
+    400014: Bone.001 2
+    400016: Bone.001_end
+    400018: Bone.001_end 1
+    400020: Bone.002
+    400022: Bone.002 1
+    400024: Bone.002 2
+    400026: Bone.002_end
+    400028: Bone.002_end 1
+    400030: Bone.003
+    400032: Bone.003 1
+    400034: Bone.003 2
+    400036: Bone.003_end
+    400038: Bone.003_end 1
+    400040: Bone.004
+    400042: Bone.005
+    400044: Bone.005_end
+    400046: Bone_end
+    400048: Bone_end 1
+    400050: BonesL
+    400052: BonesR
+    400054: BonesT
+    400056: Chassis
+    400058: Door
+    400060: Gun
+    400062: //RootNode
+    400064: StrBL1
+    400066: StrBL2
+    400068: StrBL3
+    400070: StrBL4
+    400072: StrBR1
+    400074: StrBR2
+    400076: StrBR3
+    400078: StrBR4
+    400080: StrMBL
+    400082: StrMBR
+    400084: StrMFL
+    400086: StrMFR
+    400088: StrTL1
+    400090: StrTL2
+    400092: StrTR1
+    400094: StrTR2
+    400096: SuspensionBL
+    400098: SuspensionBR
+    400100: SuspensionFL
+    400102: SuspensionFR
+    400104: TrackL
+    400106: TrackR
+    400108: Turret
+    400110: WheelBL1
+    400112: WheelBL2
+    400114: WheelBL3
+    400116: WheelBL4
+    400118: WheelBR1
+    400120: WheelBR2
+    400122: WheelBR3
+    400124: WheelBR4
+    400126: WheelMBL
+    400128: WheelMBR
+    400130: WheelMFL
+    400132: WheelMFR
+    400134: WheelTL1
+    400136: WheelTL2
+    400138: WheelTR1
+    400140: WheelTR2
+    2100000: No Name
+    2300000: Auxiliary
+    2300002: Chassis
+    2300004: Door
+    2300006: Gun
+    2300008: StrBL1
+    2300010: StrBL2
+    2300012: StrBL3
+    2300014: StrBL4
+    2300016: StrBR1
+    2300018: StrBR2
+    2300020: StrBR3
+    2300022: StrBR4
+    2300024: StrMBL
+    2300026: StrMBR
+    2300028: StrMFL
+    2300030: StrMFR
+    2300032: StrTL1
+    2300034: StrTL2
+    2300036: StrTR1
+    2300038: StrTR2
+    2300040: SuspensionBL
+    2300042: SuspensionBR
+    2300044: SuspensionFL
+    2300046: SuspensionFR
+    2300048: TrackR
+    2300050: Turret
+    2300052: WheelBL1
+    2300054: WheelBL2
+    2300056: WheelBL3
+    2300058: WheelBL4
+    2300060: WheelBR1
+    2300062: WheelBR2
+    2300064: WheelBR3
+    2300066: WheelBR4
+    2300068: WheelMBL
+    2300070: WheelMBR
+    2300072: WheelMFL
+    2300074: WheelMFR
+    2300076: WheelTL1
+    2300078: WheelTL2
+    2300080: WheelTR1
+    2300082: WheelTR2
+    3300000: Auxiliary
+    3300002: Chassis
+    3300004: Door
+    3300006: Gun
+    3300008: StrBL1
+    3300010: StrBL2
+    3300012: StrBL3
+    3300014: StrBL4
+    3300016: StrBR1
+    3300018: StrBR2
+    3300020: StrBR3
+    3300022: StrBR4
+    3300024: StrMBL
+    3300026: StrMBR
+    3300028: StrMFL
+    3300030: StrMFR
+    3300032: StrTL1
+    3300034: StrTL2
+    3300036: StrTR1
+    3300038: StrTR2
+    3300040: SuspensionBL
+    3300042: SuspensionBR
+    3300044: SuspensionFL
+    3300046: SuspensionFR
+    3300048: TrackR
+    3300050: Turret
+    3300052: WheelBL1
+    3300054: WheelBL2
+    3300056: WheelBL3
+    3300058: WheelBL4
+    3300060: WheelBR1
+    3300062: WheelBR2
+    3300064: WheelBR3
+    3300066: WheelBR4
+    3300068: WheelMBL
+    3300070: WheelMBR
+    3300072: WheelMFL
+    3300074: WheelMFR
+    3300076: WheelTL1
+    3300078: WheelTL2
+    3300080: WheelTR1
+    3300082: WheelTR2
+    4300000: TrackR
+    4300002: Auxiliary
+    4300004: Antenna
+    4300006: Door
+    4300008: Gun
+    4300010: WheelBR1
+    4300012: StrBR1
+    4300014: SuspensionFR
+    4300016: WheelMFR
+    4300018: StrMFR
+    4300020: StrMBR
+    4300022: WheelMBR
+    4300024: StrBR2
+    4300026: WheelBR2
+    4300028: WheelBR4
+    4300030: StrBR4
+    4300032: SuspensionBR
+    4300034: WheelBR3
+    4300036: StrTR1
+    4300038: WheelTR1
+    4300040: WheelTR2
+    4300042: StrTR2
+    4300044: StrBR3
+    4300046: Turret
+    4300048: StrBL3
+    4300050: TrackL
+    4300052: StrTL2
+    4300054: WheelTL2
+    4300056: WheelTL1
+    4300058: StrTL1
+    4300060: WheelBL3
+    4300062: SuspensionBL
+    4300064: StrBL4
+    4300066: WheelBL4
+    4300068: WheelBL2
+    4300070: StrBL2
+    4300072: WheelMBL
+    4300074: StrMBL
+    4300076: Chassis
+    4300078: StrMFL
+    4300080: WheelMFL
+    4300082: SuspensionFL
+    4300084: StrBL1
+    4300086: WheelBL1
+    9500000: //RootNode
+    13700000: Antenna
+    13700002: TrackL
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
